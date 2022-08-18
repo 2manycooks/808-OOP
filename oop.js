@@ -63,3 +63,14 @@ cheems.bork()
 cheems.bonk()
 // zoey cannot bonk, only shibes can bonk. this will throw an error.
 zoey.bonk()
+
+// the 3 main benefits to OOP
+
+// Encapsulation
+// all of your data is protected and scoped to that individual class. each object encapsulates its own data attributes and functions.
+
+// Inheritance
+// Classes can inorporate behavior drom otherclasses by inheriting from them using the 'extends' keyword. 
+
+// Polymorphism
+// refers to the ability of a function or even a whole object to take on different behaviors depending on which class is being called. Example here is the bork() method. the name and age displayed changes based on which dog is running the method.
